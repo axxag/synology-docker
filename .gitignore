@@ -1,8 +1,4 @@
-# dotenv environment variables file
-.env
-
-# gren configuration
-.grenrc.yml
+__pycache__
 
 # Local filesystem files
 .DS_Store
